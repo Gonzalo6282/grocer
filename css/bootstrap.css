@@ -218,18 +218,6 @@ table {
   margin-top: 15px;
 }
 
-@media (max-width:500px) {
-  #subscribe{
-    margin-left: 0px;
-  }
-}
-
-@media (max-width:600px) {
-  #subscribe{
-    margin-left: 80px;
-  }
-}
-
 @media print {
   * {
     color: #000 !important;
