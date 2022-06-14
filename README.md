@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- [Live demo](https://gonzalo6282.github.io/)
+- [Live demo](https://gonzalo6282.github.io/grocer/)
 
 
 ### Continued development
